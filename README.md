@@ -1,9 +1,11 @@
-## Install the extension and say goodbye to the slow animations in Vexor
+## Install the extension and say goodbye animations in Vexor
+
+Because life is too short to lose a second for every animation.
 
 1. Clone the repo to your local machine
 
 ```shell
-git clone git@github.com:bebanjo/schedulings_ids_chrome_extension.git
+git clone git@github.com:nobuti/unanimated-vexor.git
 ```
 
 2. Open Chrome
