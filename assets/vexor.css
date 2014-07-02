@@ -22,3 +22,7 @@
   animation-name: none !important;
 }
 */
+
+.navbar-static-side, #page-wrapper {
+  transition: none !important;
+}
